@@ -1,0 +1,29 @@
+body{
+	background-color: lightblue;
+}
+h1,h2,h3,h4,h5,h6{
+color: red;
+}
+ul li{
+	color: navy;
+	font-size: solid;
+	font-weight: bold;
+}
+span{
+	font-style: italic;
+}
+.list1{
+	color: purple;
+}
+div a{
+	font-weight: bold;
+	color: olive;
+}
+.pics{
+	border: 2px solid red;
+	border-radius: 10px;
+}
+.tbl1 td{
+	border: 1px solid navy;
+	padding: 30px;
+}
